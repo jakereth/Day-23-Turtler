@@ -7,7 +7,7 @@ from level import Level
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("grey")
-screen.title("Frogger")
+screen.title("Turtler")
 screen.tracer(0)
 player = Player()
 car = Car()
